@@ -15,3 +15,10 @@
 ### Prepared
 
 - Berkay Öner - 200903034
+- Hamza Bder - 200209479
+
+
+### Used Libraries
+
+- tkinter
+- MySQL Connector
